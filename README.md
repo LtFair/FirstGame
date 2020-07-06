@@ -1,2 +1,2 @@
-# FirstGame
- Attempting to make my first game from scatch
+# RTS Game Setup
+ Implementing some features commonly used in RTS styled games
